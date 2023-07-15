@@ -179,7 +179,7 @@ Live demo (Click icon below to run in Colab):
   How can I create an account? ->:  Click the "Create an account" button. Enter your email address and password. Click the "Continue" button.
   ```
   
-## II.  About datasets
+## III.  About datasets
 In this project we use data set from 3 source:
 + [Kaggle Ecommerce FAQ Chatbot Dataset (English)](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)
 + [Kaggle Ecommerce FAQ Chatbot Dataset (Vietnamese)](https://github.com/phatjkk/data/blob/main/LLM/Ecommerce_FAQ_Chatbot_dataset_vi.xlsx)
